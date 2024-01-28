@@ -22,4 +22,5 @@ function App() {
     </Admin>
   );
 }
+
 export default App;
